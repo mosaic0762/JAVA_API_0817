@@ -6,5 +6,6 @@ public class DJASDN {
 
     public static void main(String[] args) {
         System.out.println("main函数");
+        System.out.println("main函数阿达");
     }
 }
